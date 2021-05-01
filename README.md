@@ -16,3 +16,6 @@ We are taking what we've learned about Python Matplotlib and applying it to a re
 ![image](https://user-images.githubusercontent.com/80709458/116784990-d5772300-aa5c-11eb-9dee-4c1e8f348544.png)
 
 ![image](https://user-images.githubusercontent.com/80709458/116785005-e45dd580-aa5c-11eb-8874-5ef996f84ab2.png)
+
+## Conclusion
+Capomulin proved to be very affective whe treating the mice. Tumor sizes decreased over the 45 day period, over more than 50% of the mice showed a decrease in tumor volume that were treated with Capomulin.
